@@ -1,7 +1,7 @@
 {
-  "name": "gulp-webpack-boilerplate",
+  "name": "gulp-boilerplate",
   "version": "1.0.0",
-  "description": "Gulp 4 and webpack 4 starter template",
+  "description": "Gulp 4 starter template",
   "main": "index.js",
   "scripts": {
     "start": "gulp watch",
@@ -9,11 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Urgenism/gulp-webpack-boilerplate.git"
+    "url": "git+https://github.com/Urgenism/gulp-boilerplate.git"
   },
   "keywords": [
     "Gulp",
-    "webpack",
     "frontend",
     "eslint",
     "boilerplate",
@@ -23,9 +22,9 @@
   "author": "Urgen Sherpa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Urgenism/gulp-webpack-boilerplate/issues"
+    "url": "https://github.com/Urgenism/gulp-boilerplate/issues"
   },
-  "homepage": "https://github.com/Urgenism/gulp-webpack-boilerplate#readme",
+  "homepage": "https://github.com/Urgenism/gulp-boilerplate#readme",
   "browserslist": {
     "production": [
       "last 1 version",
@@ -53,7 +52,7 @@
     "del": "^4.1.1",
     "eslint": "^6.3.0",
     "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.2.0",
     "gulp-concat": "^2.6.1",
     "gulp-eslint": "^5.0.0",
